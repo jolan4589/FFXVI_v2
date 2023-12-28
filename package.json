@@ -1,0 +1,22 @@
+{
+  "name": "ffxvi_v2",
+  "version": "1.0.0",
+  "description": "update of ffxvi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolan4589/FFXVI_v2.git"
+  },
+  "author": "Ald4nia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolan4589/FFXVI_v2/issues"
+  },
+  "homepage": "https://github.com/jolan4589/FFXVI_v2#readme",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  }
+}
